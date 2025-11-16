@@ -104,7 +104,7 @@ The curriculum is designed to provide a solid foundation in computer science fun
 ### Programming Languages
 - **C Programming**: [Harvard CS50](https://cs50.harvard.edu/)
 - **C++**: [Coursera C++ Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
-- **JavaScript**: [Full Stack Web Development Specialization](https://www.coursera.org/specializations/full-stack)
+- **JavaScript**: [Full Stack Web Development Specialization](https://www.coursera.org/courses?query=full%20stack%20web%20development)
 
 ### Practice & Competitive Programming
 - **LeetCode**: Practice coding problems
