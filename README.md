@@ -1,0 +1,1 @@
+# bachelor-of-science-in-computer-science-open-source-version
