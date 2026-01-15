@@ -76,7 +76,7 @@ The curriculum is designed to provide a solid foundation in computer science fun
 
 | Course Title | Platform | University/Provider | Link |
 |--------------|----------|---------------------|------|
-| Computer Graphics | edX | UC San Diego | [Computer Graphics](https://www.edx.org/course/computer-graphics) |
+| Computer Graphics | edX | UC San Diego | [Computer Graphics](https://learning.edx.org/course/course-v1:UCSanDiegoX+CSE167x+2T2018/home) |
 | Cybersecurity Fundamentals | edX | RIT | [Cybersecurity](https://www.edx.org/course/cybersecurity-fundamentals) |
 | Distributed Systems | MIT OpenCourseWare | MIT | [6.824](https://pdos.csail.mit.edu/6.824/) |
 | Compilers | Coursera | Stanford University | [Compilers](https://www.coursera.org/learn/compilers) |
