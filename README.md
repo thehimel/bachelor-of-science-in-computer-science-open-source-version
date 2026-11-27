@@ -1,6 +1,6 @@
 # Bachelor of Science in Computer Science - Open Source Curriculum
 
-This repository provides a comprehensive, semester-wise curriculum for a Bachelor of Science in Computer Science, inspired by world-class programs from top-ranked universities such as MIT, Stanford, Harvard, Carnegie Mellon, and UC Berkeley. All courses listed here are available for free through platforms like Coursera, edX, MIT OpenCourseWare, and direct university offerings.
+This repository provides a comprehensive, semester-wise curriculum for a Bachelor  of Science in Computer Science, inspired by world-class programs from top-ranked universities such as MIT, Stanford, Harvard, Carnegie Mellon, and UC Berkeley. All courses listed here are available for free through platforms like Coursera, edX, MIT OpenCourseWare, and direct university offerings.
 
 The curriculum is designed to provide a solid foundation in computer science fundamentals while progressively building expertise in specialized areas. Each semester builds upon previous knowledge, following the structure of renowned CS programs worldwide.
 
@@ -112,7 +112,9 @@ The curriculum is designed to provide a solid foundation in computer science fun
 - **Project Euler**: Mathematical programming challenges
 
 ---
-
+## Create your own career roadmap
+[Roadmap.sh](https://roadmap.sh/)
+[Nabid in motion](https://nabidinmotion.com/)
 ## How to Use This Curriculum
 
 1. **Follow the Semester Order**: Courses are arranged to build upon each other. Complete Semester 1 before moving to Semester 2.
